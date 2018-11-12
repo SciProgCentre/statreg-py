@@ -2,6 +2,9 @@
 """
 """
 
-from .deconvolution import Unfolding,omega,boundaryA,boundaryB,boundaryAB
+
+__all__ = []
+from statreg.model.gauss_error import omega,boundaryA,boundaryB,boundaryAB
 from .basis         import Basis,CubicSplines,FourierBasis
-from .vector        import PhiVec,Dataset
+
+from statreg import model

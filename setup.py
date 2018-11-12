@@ -13,9 +13,9 @@ NUMPY_MIN_VERSION = '1.8.2'
 
 setuptools.setup(
     name="statreg",
-    version="0.0.1",
-    author="Nuclear Physics Methods", # "Alexey Khudyakov, Mikhail Zeleniy, Mariia Poliakova, Alexander Nozik",
-    author_email="npm@mipt.ru",  #"alexey.skladnoy@gmail.com",
+    version="0.0.1.dev1",
+    author="Nuclear Physics Methods",
+    author_email="npm@mipt.ru",
     url='http://npm.mipt.ru/',
     description="Implementation of Turchin's statistical regularization",
     license = "Apache License 2.0",

@@ -1,0 +1,6 @@
+Authors unordered
+
+Alexey Khudyakov <alexey.skladnoy@gmail.com>
+Mikhail Zeleniy <mihail.zelenyy@phystech.edu>
+Mariia Poliakova
+Alexander Nozik
